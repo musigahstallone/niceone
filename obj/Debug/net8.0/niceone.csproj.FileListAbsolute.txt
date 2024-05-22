@@ -113,6 +113,7 @@ C:\Users\odhia\source\niceone\obj\Debug\net8.0\niceone.GeneratedMSBuildEditorCon
 C:\Users\odhia\source\niceone\obj\Debug\net8.0\niceone.AssemblyInfoInputs.cache
 C:\Users\odhia\source\niceone\obj\Debug\net8.0\niceone.AssemblyInfo.cs
 C:\Users\odhia\source\niceone\obj\Debug\net8.0\niceone.csproj.CoreCompileInputs.cache
+C:\Users\odhia\source\niceone\obj\Debug\net8.0\niceone.sourcelink.json
 C:\Users\odhia\source\niceone\obj\Debug\net8.0\niceone.csproj.Up2Date
 C:\Users\odhia\source\niceone\obj\Debug\net8.0\niceone.dll
 C:\Users\odhia\source\niceone\obj\Debug\net8.0\refint\niceone.dll
